@@ -39,6 +39,10 @@
 	</script>
 
 	<style>
+		html {
+			font-size: 10px;
+		}
+
 		html,
 		body {
 			margin: 0;
@@ -74,12 +78,18 @@
 		.fucking-wrapper-🖕 h1 {
 			margin: 0;
 			font-family: Arial, sans-serif;
-			font-size: 50px;
+			font-size: 5rem;
 			color: #000;
 			-webkit-animation: blinkText 5s ease-in-out infinite;
 			-moz-animation: blinkText 5s ease-in-out infinite;
 			-o-animation: blinkText 5s ease-in-out infinite;
 			animation: blinkText 5s ease-in-out infinite;
+		}
+
+		@media (max-width: 360px) {
+			.fucking-wrapper-🖕 h1 {
+				font-size: 3rem;
+			}
 		}
 
 		@-webkit-keyframes blinkBackground {
