@@ -1,0 +1,11 @@
+/* TEAM */
+Your title: Levi Zitting
+Site: https://levizitting.com
+Twitter: levizitting
+Location: Springfield MO
+
+/* SITE */
+Last update: 2018/10/12
+Standards: HTML5, CSS3
+Components:
+Software:
