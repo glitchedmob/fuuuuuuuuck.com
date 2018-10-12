@@ -1,0 +1,29 @@
+
+{
+	"name": "Fuuuuuuuuck.",
+	"short_name": "Fuck.",
+	"description": "Fuuuuuuuuck.",
+	"start_url": "./",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#da532c",
+	"theme_color": "#ffffff",
+	"icons": [
+		{
+			"src": "./android-chrome-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./android-chrome-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"author": {
+		"name": "Levi Zitting",
+		"website": "https://levizitting.com",
+		"github": "https://github.com/glitchedmob",
+		"source-repo": "https://github.com/glitchedmob/fuuuuuuuuck.com"
+	}
+}
