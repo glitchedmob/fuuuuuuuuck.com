@@ -10,7 +10,7 @@ Every commit message should have the prefix `fuck:`
 
 Always add add an additional fuck somewhere else in the commit message
 
-Example: `fucK: rename the fucking file`
+Example: `fuck: rename the fucking file`
 
 ## Notes
 
