@@ -6,9 +6,11 @@ Example: `fuck/animation-overhaul`
 
 ## Commits
 
-Every commit should have the word fuck in it.
+Every commit message should have the prefix `fuck:`
 
-Example: "Rename the fucking file"
+Always add add an additional fuck somewhere else in the commit message
+
+Example: `fucK: rename the fucking file`
 
 ## Notes
 
